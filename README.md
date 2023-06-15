@@ -11,7 +11,4 @@
 * Tailwindcss İle Yapıldı
 * Admin Panel
 * Yetkililerimiz Sayfası
-* S.S.S Sayfası
-* Hakkımızda Sayfası
-* Uptime Sistemi
 * Kod Editleme Sistemi
