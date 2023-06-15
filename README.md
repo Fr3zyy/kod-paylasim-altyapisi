@@ -1,2 +1,1 @@
-# kod-paylasim-altyapisi
-kod paylasim altyapisi
+# 31
