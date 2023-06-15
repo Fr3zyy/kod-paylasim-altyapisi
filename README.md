@@ -1,6 +1,6 @@
 # 🔒| Nasıl Kurulur ?
 
-* ``settings.json`` Dosyasındaki Bilgileri Doldurun ! 
+* ``settings.json`` ve ``config.json`` Dosyasındaki Bilgileri Doldurun ! 
 * Cmd'ye ``node .`` Veya ``node server.js`` Yazın !
 * Modül Hatası Verirse ``npm i`` Yazın !
 
