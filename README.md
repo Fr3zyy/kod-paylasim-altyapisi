@@ -1,7 +1,7 @@
 # 🔒| Nasıl Kurulur ?
 
 * ``settings.json`` ve ``config.json`` Dosyasındaki Bilgileri Doldurun ! 
-* Cmd'ye ``node .`` Veya ``node server.js`` Yazın !
+* Cmd'ye ``node .`` Veya ``node app.js`` Yazın !
 * Modül Hatası Verirse ``npm i`` Yazın !
 
 # 🔒| Özellikleri ?
